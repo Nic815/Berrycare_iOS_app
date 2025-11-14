@@ -8,7 +8,11 @@ Users can log in, fill screening forms, capture mouth images, upload reports sec
 ## 🚀 Demo Video
 
 ▶️ **Watch the Demo**  
-https://your-demo-video-link.com
+
+
+https://github.com/user-attachments/assets/c3238c32-8882-4c07-8c29-65df7e378758
+
+
 
 > _Shows OTP login, form filling, camera capture, upload flow, error handling, reports tab, and PDF download._
 
@@ -62,14 +66,19 @@ https://your-demo-video-link.com
 
 
 ### 📝 Forms & Camera
-| Habit Form | Camera View | Upload Success |
-|------------|--------------|----------------|
-| ![](screens/habitform.png) | ![](screens/camera.png) | ![](screens/success.png) |
+| Patient Form | Habit Form | Camera View |
+|--------------|-------------|-------------|
+| <img src="https://github.com/user-attachments/assets/f5405b8c-8332-4f90-a08b-a7597b5819d7" width="250" /> | <img src="https://github.com/user-attachments/assets/beaeec3a-b689-4827-9874-a2d568cad87b" width="250" /> | <img src="https://github.com/user-attachments/assets/c126e2f6-99f3-4a5b-86ae-15733a170a1b" width="250" /> |
 
-### 📄 Reports & PDF
-| Reports | Pending | PDF Viewer |
-|---------|----------|-------------|
-| ![](screens/reports.png) | ![](screens/pending.png) | ![](screens/pdf.png) |
+
+
+
+
+### 📄 Reports & Profile
+| Reports | Upload Success | Profile |
+|---------|----------------|---------|
+| <img src="https://github.com/user-attachments/assets/25379d0b-433a-4c62-829b-55d99434c102" width="250" /> | <img src="https://github.com/user-attachments/assets/2c5ead26-6e18-4b08-bf4d-dd9e911b80b2" width="250" /> | <img src="https://github.com/user-attachments/assets/0100aaa9-7881-49b7-9800-c22ea00ec2e8" width="250" /> |
+
 
 ---
 
