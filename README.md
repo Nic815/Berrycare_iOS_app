@@ -58,10 +58,8 @@ https://your-demo-video-link.com
 ### 🔐 Authentication Flow
 | Login | OTP | Home |
 |-------|-----|------|
-| ![](![IMG_5290](https://github.com/user-attachments/assets/06c027e3-737f-464b-8915-c505f665a7e7)
-) | ![](![IMG_5291](https://github.com/user-attachments/assets/371e3601-7bf5-4e7f-aef1-495cbd7fc41a)
-) | ![](<img width="585" height="1266" alt="IMG_5239 2" src="https://github.com/user-attachments/assets/49355870-f022-4402-8dd0-5f46b2dc432d" />
-) |
+| <img src="https://github.com/user-attachments/assets/06c027e3-737f-464b-8915-c505f665a7e7" width="250" /> | <img src="https://github.com/user-attachments/assets/371e3601-7bf5-4e7f-aef1-495cbd7fc41a" width="250" /> | <img src="https://github.com/user-attachments/assets/49355870-f022-4402-8dd0-5f46b2dc432d" width="250" /> |
+
 
 ### 📝 Forms & Camera
 | Habit Form | Camera View | Upload Success |
