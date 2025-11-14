@@ -1,7 +1,7 @@
 # 🦷 Berrycare iOS App – Smart Oral Screening & Report Upload
 
 Berrycare iOS App is a seamless oral-health screening tool built with **SwiftUI**, **Firebase OTP Login**, **CoreData**, and an integrated **Camera & Upload Framework**.  
-Users can log in, fill screening forms, capture mouth images, upload reports securely, and view past screenings — all inside one smooth, mobile-first experience.
+Users can log in, fill screening forms, capture mouth images, upload reports securely, and view past screenings all inside one smooth, mobile first experience.
 
 ---
 
@@ -58,7 +58,10 @@ https://your-demo-video-link.com
 ### 🔐 Authentication Flow
 | Login | OTP | Home |
 |-------|-----|------|
-| ![](screens/login.png) | ![](screens/otp.png) | ![](screens/home.png) |
+| ![](![IMG_5290](https://github.com/user-attachments/assets/06c027e3-737f-464b-8915-c505f665a7e7)
+) | ![](![IMG_5291](https://github.com/user-attachments/assets/371e3601-7bf5-4e7f-aef1-495cbd7fc41a)
+) | ![](<img width="585" height="1266" alt="IMG_5239 2" src="https://github.com/user-attachments/assets/49355870-f022-4402-8dd0-5f46b2dc432d" />
+) |
 
 ### 📝 Forms & Camera
 | Habit Form | Camera View | Upload Success |
