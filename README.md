@@ -99,3 +99,45 @@ https://github.com/user-attachments/assets/c3238c32-8882-4c07-8c29-65df7e378758
 ### 1️⃣ Clone the project
 ```sh
 git clone https://github.com/YourUsername/Berrycare-iOS-App.git
+```
+### 2️⃣ Open in Xcode
+
+Open BerrycareiOS_App.xcodeproj
+
+### 3️⃣ Add Firebase config
+
+Place GoogleService-Info.plist in the project root.
+
+### 4️⃣ Run
+
+Select an iOS 17+ device → Cmd + R
+
+
+## 🔌 How It Works
+### 🔑 Token System
+
+- Fixed Token → Login verification
+
+- Dynamic Token → Screenings, uploads, PDF downloads
+
+### 📤 Upload Flow
+
+- Capture mouth images
+
+- Save paths to CoreData
+
+- Upload images one-by-one
+
+- Failure → Retry popup
+
+- Success → Success animation
+
+- Trigger completion API
+
+### 📥 PDF Download
+
+- Secure GET request
+
+- Shows “Downloading…”
+
+- Opens in system PDF viewer
